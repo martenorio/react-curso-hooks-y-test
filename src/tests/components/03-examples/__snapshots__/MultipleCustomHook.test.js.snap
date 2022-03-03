@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MultipleCustomHook tests should show loaded information 1`] = `
+<div>
+  <h1>
+    Breaking Quote
+  </h1>
+  <hr />
+  <div>
+    <blockquote
+      className="blockquote text-end"
+    >
+      <p
+        className="mb-0"
+      >
+        Holi
+      </p>
+      <footer
+        className="blockquote-footer"
+      >
+        Miguel
+      </footer>
+    </blockquote>
+    <button
+      className="btn btn-primary"
+      onClick={[Function]}
+    >
+      Siguiente quote
+    </button>
+  </div>
+</div>
+`;
+
+exports[`MultipleCustomHook tests should show snapshot correctly 1`] = `
+<div>
+  <h1>
+    Breaking Quote
+  </h1>
+  <hr />
+  <div
+    className="alert alert-info"
+  >
+    loading...
+  </div>
+</div>
+`;
+
+exports[`MultipleCustomHook tests should show snapshot successfully 1`] = `
+<div>
+  <h1>
+    Breaking Quote
+  </h1>
+  <hr />
+  <div
+    className="alert alert-info"
+  >
+    loading...
+  </div>
+</div>
+`;

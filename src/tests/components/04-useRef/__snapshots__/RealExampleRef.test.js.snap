@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RealExampleRef Tests should show correctly 1`] = `
+<div>
+  <h1>
+    Real Example ref
+  </h1>
+  <hr />
+  <button
+    className="btn btn-outline-primary"
+    onClick={[Function]}
+  >
+    Mostrar
+     Tarjeta
+  </button>
+</div>
+`;
+
+exports[`RealExampleRef Tests should show successfully 1`] = `
+<div>
+  <h1>
+    Real Example ref
+  </h1>
+  <hr />
+  <button
+    className="btn btn-outline-primary"
+    onClick={[Function]}
+  >
+    Mostrar
+     Tarjeta
+  </button>
+</div>
+`;
